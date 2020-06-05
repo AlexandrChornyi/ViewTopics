@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DAL.Entities
 {
-    class users
+    public class users
     {
         public int User_ID { get; set; }
         public string Category_ID { get; set; }
