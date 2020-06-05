@@ -12,5 +12,6 @@ namespace DAL.UnitOfWork
         ICategoryTopicRepository categoryTopics { get; }
         ITopicRepository topics { get; }
         void Save();
+
     }
 }
