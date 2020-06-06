@@ -35,13 +35,6 @@ namespace BLL.Services.Impl
         {
             var user = SecurityContext.GetUser();
             var userType = user.GetType();
-            /*
-            if (userType != typeof(Admin)
-                && userType != typeof(Moder))
-            {
-                throw new MethodAccessException();
-            }
-            */
             var categoryId = int.Parse(user.Category_ID);
             var topicsEntities =
                 _database

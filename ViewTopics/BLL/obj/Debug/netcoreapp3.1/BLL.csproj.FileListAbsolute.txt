@@ -6,3 +6,14 @@ C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreap
 C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
 C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
 C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\CLL.dll
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\DAL.tests.dll
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\CLL.pdb
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\bin\Debug\netcoreapp3.1\DAL.tests.pdb
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Alexandr\Documents\GitHub\ViewTopics\ViewTopics\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

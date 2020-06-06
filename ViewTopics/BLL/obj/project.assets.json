@@ -1999,22 +1999,6 @@
           "build/netcoreapp1.0/_._": {}
         }
       },
-      "BLL.Tests/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "16.5.0",
-          "coverlet.collector": "1.2.0",
-          "xunit": "2.4.0",
-          "xunit.runner.visualstudio": "2.4.0"
-        },
-        "compile": {
-          "bin/placeholder/BLL.Tests.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BLL.Tests.dll": {}
-        }
-      },
       "CLL/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -6810,11 +6794,6 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "BLL.Tests/1.0.0": {
-      "type": "project",
-      "path": "../BLL.Tests/BLL.Tests.csproj",
-      "msbuildProject": "../BLL.Tests/BLL.Tests.csproj"
-    },
     "CLL/1.0.0": {
       "type": "project",
       "path": "../CLL/CLL.csproj",
@@ -6834,7 +6813,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper >= 9.0.0",
-      "BLL.Tests >= 1.0.0",
       "CLL >= 1.0.0",
       "DAL >= 1.0.0",
       "DAL.tests >= 1.0.0",
@@ -6867,9 +6845,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Alexandr\\Documents\\GitHub\\ViewTopics\\ViewTopics\\BLL.Tests\\BLL.Tests.csproj": {
-              "projectPath": "C:\\Users\\Alexandr\\Documents\\GitHub\\ViewTopics\\ViewTopics\\BLL.Tests\\BLL.Tests.csproj"
-            },
             "C:\\Users\\Alexandr\\Documents\\GitHub\\ViewTopics\\ViewTopics\\CLL\\CLL.csproj": {
               "projectPath": "C:\\Users\\Alexandr\\Documents\\GitHub\\ViewTopics\\ViewTopics\\CLL\\CLL.csproj"
             },
