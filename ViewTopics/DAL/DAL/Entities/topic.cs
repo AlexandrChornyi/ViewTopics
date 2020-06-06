@@ -9,5 +9,7 @@ namespace DAL.Entities
         public int Topic_ID { get; set; }
         public string Topic_Name { get; set; }
         public string Topic_Description { get; set; }
+        
+        public int Category_ID { get; set; }
     }
 }
